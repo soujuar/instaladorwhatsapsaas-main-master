@@ -6,6 +6,6 @@ sudo apt install -y git && git clone https://github.com/soujuar/instaladorwhatsa
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd ./instaladorwhatsapsaas-main && sudo ./install_instancia
+cd ./instaladorwhatsapsaas-main-master && sudo ./install_instancia
 ```
 
