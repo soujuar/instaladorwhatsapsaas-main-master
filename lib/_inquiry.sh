@@ -201,14 +201,14 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Whaticket, Selecione abaixo a proxima ação!${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Whaticket NOXETEC, Selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
-  printf "   [0] Instalar whaticket\n"
-  printf "   [1] Atualizar whaticket\n"
-  printf "   [2] Deletar Whaticket\n"
-  printf "   [3] Bloquear Whaticket\n"
-  printf "   [4] Desbloquear Whaticket\n"
-  printf "   [5] Alter. dominio Whaticket\n"
+  printf "   [0] Instalar whaticket NOXETEC\n"
+  printf "   [1] Atualizar whaticket NOXETEC\n"
+  printf "   [2] Deletar Whaticket NOXETEC\n"
+  printf "   [3] Bloquear Whaticket NOXETEC\n"
+  printf "   [4] Desbloquear Whaticket NOXETEC\n"
+  printf "   [5] Alter. dominio Whaticket NOXETEC\n"
   printf "\n"
   read -p "> " option
 
